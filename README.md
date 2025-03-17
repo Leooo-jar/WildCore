@@ -13,4 +13,4 @@ Restart your server to generate the configuration files.
 Customize settings in config.yml as needed.
 
 🚀 Development Status
-Wilcore is currently in Beta. Some features may be incomplete or subject to change in future updates.
+Wilcore is currently in Beta. Some features may be incomplete or subject to change in future updates
