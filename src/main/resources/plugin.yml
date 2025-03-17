@@ -1,0 +1,29 @@
+name: WildCore
+version: '1.0-SNAPSHOT'
+main: com.leo.wildCore.Main
+api-version: '1.21'
+authors: [ Leo ]
+description: Survival Core Plugin
+commands:
+  broadcast:
+    permissions: "wildcore.broadcast"
+    usage: /broadcast <Message>
+  alert:
+    permissions: "wildcore.alert"
+    usage: /alerts <message>
+  ban:
+    permission: "wildcore.ban"
+    usage: /ban <player> <reason>
+  tempban:
+    permission: "wildcore.tempban"
+    usage: /tempban <player> <time> <reason>
+  kick:
+    permission: "wildcore.kick"
+    usage: /kick <player>
+  unban:
+    permission: "wilcore.unban"
+    usage: /unban <player>
+  settings:
+    permission: "wildcore.settings"
+  hologramcreate:
+    permission: "wildcore.hologram"
